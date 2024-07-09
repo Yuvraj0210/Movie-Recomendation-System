@@ -83,4 +83,3 @@ More about Cosine Similarity : [Understanding the Math behind Cosine Similarity]
 
     ```
 
-Hurray! That's it. 🥳
