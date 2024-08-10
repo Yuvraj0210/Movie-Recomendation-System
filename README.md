@@ -1,6 +1,7 @@
 # Content Based Movie Recommendation System using Streamlit
 
-#### 🔗 *[Movie Recommendation Website]([https://mrs-sd.streamlit.app/](https://movie-reccomendation-system-jhje7mt9arkvznvphbxfvy.streamlit.app/))*
+#### 🔗 *[Movie Recommendation Website](https://movie-reccomendation-system-jhje7mt9arkvznvphbxfvy.streamlit.app/)*
+
 
 Tech Stack used- Python, TMDB API, Streamlit NUMPY, Pandas, NLTK, Scikit Learn, Count Vectorizer, Cosine Similarity.
 
