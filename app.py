@@ -24,7 +24,7 @@ def configure():
     
 def fetch_poster(movie_id):
     try:
-        response = requests.get(f"https://api.themoviedb.org/3/movie/{movie_id}?api_key={os.getenv('a9328013b8535a302ba924a6706cfb14')}&language=en-US") 
+        response = requests.get(f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=a9328013b8535a302ba924a6706cfb14&language=en-US")
         data = response.json()
         return "https://image.tmdb.org/t/p/original"+data['poster_path']
     except:
